@@ -32,7 +32,7 @@ NB: che le immagini siano tutte JPG di dimensione massima 256x256
 ## Concept Art
 |   | Nome | Corso | Team | Url |
 |:---:|---|---|---|---|
-|![](Mirco Paoli\3439_4220521705483_735850434_n.jpg) | Mirco Paoli | Concept Art | team Elecman | [GitHub](https://github.com/PaoliMirco-art)|
+|![](./data/Mirco Paoli\3439_4220521705483_735850434_n.jpg) | Mirco Paoli | Concept Art | team Elecman | [GitHub](https://github.com/PaoliMirco-art)|
 
 
 ## 3D Game Art

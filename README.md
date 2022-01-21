@@ -55,3 +55,4 @@ NB: che le immagini siano tutte JPG di dimensione massima 256x256
 |![](./data/FrancescoLaiali/PFP.jpg) | Francesco Laiali | 3D Game Art | team name | [GitHub](https://github.com/FrancescoLaiali)
 |![](./data/BenedettaBaccari/BenedettaBaccari.jpg) | nome cognome | 3D Game Art | team name | [GitHub](https://github.com/cipincipancake)
 |![](./data/BenedettaBaccari/BenedettaBaccari.jpg) | Matteo Ledda | 3D Game Art | BombMan | [GitHub](https://github.com/MatteoLedda)
+|![](./data/MarcoGazzaniga/Marco_Gazzaniga.jpg) | Marco Gazzaniga | 3D Game Art | BombMan | [GitHub](https://github.com/MarcoGazzaniga)

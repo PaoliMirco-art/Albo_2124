@@ -21,8 +21,8 @@ NB: che le immagini siano tutte JPG di dimensione massima 256x256
 ## Programming
 |   | Nome | Corso | Team | Url |
 |:---:|---|---|---|---|
-|![]() | Marco Chechi | Programming | Cutman | [github](https://github.com/Licantropo5)|
 |![](./data/AlessioBolognesi/AlessioBolognesi.jpg) | nome cognome | Programming | team name | [GitHub](https://github.com/Bolognesi-Alessio)|
+|![]() | Marco Chechi | Programming | team Cutman | [Github](https://github.com/Licantropo5)|
 |![]() | Luca Gunnella | Programming | team bomberman | [GitHub](https://github.com/LucaGunnella)|
 |![]() | Leonardo Martelli | Programming | Team Elecman | [GitHub](https://github.com/LeonardoMartelli-coba)|
 |![]()| Moreno Melis| Programming | Team Fireman | [GitHub](https://github.com/MorenoMelis)|
@@ -32,10 +32,10 @@ NB: che le immagini siano tutte JPG di dimensione massima 256x256
 |:---:|---|---|---|---|
 |![](./data/DavideGioan/DavideGioan.jpg) | nome cognome | Game Design | team name | [GitHub](https://github.com/GioanDavide)|
 |![](./data/AndreaCianfanelli/Cinfa.jpg) | Andrea Cianfanelli |  | Cutman | [GitHub](https://github.com/cinfa78)|
-|![](./data/AlbertoSargenti/AlbertoSargentiAvatar.jpg) | Alberto Sargenti |  | FireMan | [GitHub](https://github.com/AlbertoSargenti)|
+|![](./data/AlbertoSargenti/AlbertoSargentiAvatar.jpg) | Alberto Sargenti | Game Design | FireMan | [GitHub](https://github.com/AlbertoSargenti)|
 |![](./data/LuigiGrassini/LuigiGrassiniFoto.jpg) | Luigi Grassini | Game Design | FireMan | [GitHub](https://github.com/Hemsey7)|
-|![](./data/FrancescoPieruccini/FrancescoPieruccini.jpg) | Francesco Pieruccini |  | GutsMan | [GitHub](https://github.com/FrancescoPieruccini)|
-|![](./data/FrancescoNannini/NanniniFrancesco.jpg) | Francesco Nannini |  | Bombman | [GitHub](https://github.com/BelethThynemenos)|
+|![](./data/FrancescoPieruccini/FrancescoPieruccini.jpg) | Francesco Pieruccini | Game Design | GutsMan | [GitHub](https://github.com/FrancescoPieruccini)|
+|![](./data/FrancescoNannini/NanniniFrancesco.jpg) | Francesco Nannini | Game Design | Bombman | [GitHub](https://github.com/BelethThynemenos)|
 |![](./data/AndreaVanghi/AndreaVanghi.jpg) | Andrea Vanghi | Game Design | Gutsman | [GitHub](https://github.com/VanghiAndrea)|
 
 ## Concept Art
@@ -46,6 +46,7 @@ NB: che le immagini siano tutte JPG di dimensione massima 256x256
 |![]()| Maria Libera Demarcus| Concept Art | Team Bombman | [GitHub](https://github.com/Weeliox)|
 ![]()| Michele Gabrielli | Concept Art | Team Bombman | [GitHub](https://github.com/MicheleGabrielli)|
 |![]()| Lorenzo Ferraina | Concept Art | Team Elecman | [GitHub](https://github.com/Lorenzo-Ferraina)|
+|![]()| Mattia Monteduro | Concept Art | Team Bombman | [GitHub](https://github.com/MattiaMonteduro)|
 
 
 
